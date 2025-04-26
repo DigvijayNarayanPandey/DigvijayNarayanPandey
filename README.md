@@ -26,14 +26,14 @@ Currently, I'm focused on learning more about backend systems, full-stack develo
 
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,mysql,c,cpp,java,javascript,python,html,css" alt="Skills" />
 </p>
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DigvijayNarayanPandey&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DigvijayNarayanPandey&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DigvijayNarayanPandey&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
