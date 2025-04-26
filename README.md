@@ -24,8 +24,9 @@ Currently, I'm focused on learning more about backend systems, full-stack develo
 ## 🌐 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/digvijaynarayan/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:digvijaynarayanpandey7@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/digvijaynarayanpandey/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Digvijay-Narayan-Pandey-2) 
 
+---
+
 # 💻 Tech Stack:
-### 🛠 Technologies I Use
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,mysql,c,cpp,java,javascript,python,html,css" alt="Skills" />
 </p>
