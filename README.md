@@ -28,7 +28,7 @@ Currently, I'm focused on learning more about backend systems, full-stack develo
 
 ## 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,mysql,c,cpp,java,javascript,python,html,css" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,mysql,c,cpp,java,javascript,python,html,css,git,github" alt="Skills" />
 </p>
 
 ---
